@@ -1,4 +1,4 @@
-![image](https://github.com/zekaidragonil/zekaidragonil/assets/88870043/eab1fe81-aeaf-47ae-be9e-d5f3350665fc)### Hi there 👋
+
 
 <!--
 **zekaidragonil/zekaidragonil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
