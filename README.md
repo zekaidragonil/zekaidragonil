@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 <br>
 <img src="https://komarev.com/ghpvc/?username=zekaiXD&color=blueviolet">
 <br />
-<br />
 <h3 align="center">🚀 Full stack Developer 🚀</h3>
-
 <div>
 <img width="350" height="350" align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <div align="left"> 
