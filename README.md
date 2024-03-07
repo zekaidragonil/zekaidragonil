@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <h3 align="center">🚀 Full stack Developer 🚀</h3>
 
 <div>
-<img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
