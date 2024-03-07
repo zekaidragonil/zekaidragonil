@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 title="hehehe"> Hey 👋, Soy andry!</h3>
+<h3 title="hehehe"> Hey 👋, Soy ANDRY!</h3>
 <a href="https://www.linkedin.com/in/andry-blanquiset-b047b9199/">
     <img align="left" alt="andry LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -37,19 +37,20 @@ Here are some ideas to get you started:
 <div>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
-
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
-  - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
+  <h3> 👨🏻‍💻 Sobre mi  </h3>
+    
+  - 🤔 &nbsp; Me soy un entusiasta en el desarrollo de web  y android.
+  - 🎓 &nbsp; Estudiante de ingeneria electronica .
+  - 💼 &nbsp; Actualmente estudio y trabajo en proyectos personales.
+  - 🌱 &nbsp; Aprendiendo más sobre Arquitecturas Backend y Desarrollo Frontend.
+  - ✍️ &nbsp; Actualmente estoy aprendido react-Native
+  - 📫 Email me at [andryb731@gmail.com](mailto:andryb731@gmail.com). 
 </div> 
 </div>
 
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
-   <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
+   <img src="https://media.giphy.com/media/YwJgMmp1SdCd2oFteo/giphy.gif?cid=790b7611y8ze8ee3zjwjlv4dbwob1gugfqpydeqkgb3j2gsh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50"><img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://media.giphy.com/media/SsCYf6DRFJrOpP0IoM/giphy.gif" width="70">
   <p>
 </div> 
