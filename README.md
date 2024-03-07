@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <div align="left"> 
   <h3> 👨🏻‍💻 Sobre mi  </h3>
     
-  - 🤔 &nbsp; Me soy un entusiasta en el desarrollo de web  y android.
+  - 🤔 &nbsp; soy un entusiasta en el desarrollo de web  y android.
   - 🎓 &nbsp; Estudiante de ingeneria electronica .
   - 💼 &nbsp; Actualmente estudio y trabajo en proyectos personales.
   - 🌱 &nbsp; Aprendiendo más sobre Arquitecturas Backend y Desarrollo Frontend.
