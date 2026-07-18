@@ -38,10 +38,9 @@ Here are some ideas to get you started:
   <h3> 👨🏻‍💻 Sobre mi  </h3>
     
   - 🤔 &nbsp; soy un entusiasta en el desarrollo de web  y android.
-  - 🎓 &nbsp; Estudiante de ingeneria electronica .
-  - 💼 &nbsp; Actualmente estudio y trabajo en proyectos personales.
-  - 🌱 &nbsp; Aprendiendo más sobre Arquitecturas Backend y Desarrollo Frontend.
-  - ✍️ &nbsp; Actualmente estoy aprendido react-Native
+  - 🎓 &nbsp; ingeniero electronico .
+  - 💼 &nbsp; trabajo en proyectos personales y freelancer.
+  - ✍️ &nbsp; Actualmente  Busco nuevos retos 
   - 📫 Email me at [andryb731@gmail.com](mailto:andryb731@gmail.com). 
 </div> 
 </div>
