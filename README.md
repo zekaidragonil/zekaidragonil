@@ -18,11 +18,11 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 Sobre mi  </h3>
 
-- 🚀 **Especialidad:** Desarrollador Full-Stack enfocado en construir sistemas web robustos, automatización de procesos, APIs y soluciones a medida que resuelven problemas de negocio reales.
-- 🎓 **Formación:** Ingeniero Electrónico. Traduzco requerimientos complejos en aplicaciones estables, escalables y optimizadas.
+- 🚀 **Especialidad:** Full-Stack Developer. Sistemas web robustos, automatización, APIs y soluciones escalables.
+- 🎓 **Formación:** Ingeniero Electrónico.
 - 💼 **Actualidad:** Buscando nuevos retos profesionales.
-- 🌐 **Explora mi trabajo:** Puedes ver mis casos de estudio detallados, descargas de software y proyectos empresariales en mi **[Portafolio Oficial](https://andryblanquiset.com/)**.
-- ✉️ **Contacto directo:** Escríbeme a [andryb731@gmail.com](mailto:andryb731@gmail.com) para nuevos retos o colaboraciones.
+- 🌐 **Portafolio:** **[andryblanquiset.com](https://andryblanquiset.com/)**
+- ✉️ **Contacto:** [andryb731@gmail.com](mailto:andryb731@gmail.com)
 </div> 
 </div>
 
